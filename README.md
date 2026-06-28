@@ -1,5 +1,5 @@
 BCom Information Systems graduate and aspiring Software Engineer. 
-I enjoy building web applications, debugging problems, and learning modern technologies like C#, .NET, React, Node.js, SQL, and Firebase. 
+I enjoy building web applications, debugging problems, and learning modern technologies like JAVA, SPRING BOOT, C#, .NET, React, Node.js, SQL, and Firebase. 
 Always curious, always improving.
 
 
